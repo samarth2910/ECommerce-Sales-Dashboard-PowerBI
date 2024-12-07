@@ -5,7 +5,7 @@ Used different types of visualization (line chart,donut chart,bar chart,pie char
 
 The Dataset used are :
 <a href="https://github.com/samarth2910/ECommerce-Sales-Dashboard-PowerBI/blob/main/Details.csv">Details</a>
-<a href="https://github.com/samarth2910/ECommerce-Sales-Dashboard-PowerBI/blob/main/Orders.csv"> used</a>
+<a href="https://github.com/samarth2910/ECommerce-Sales-Dashboard-PowerBI/blob/main/Orders.csv">Orders</a>
 
 
 <a href="https://github.com/samarth2910/ECommerce-Sales-Dashboard-PowerBI/blob/main/Screenshot%20(25).png">View Dashboard</a>
